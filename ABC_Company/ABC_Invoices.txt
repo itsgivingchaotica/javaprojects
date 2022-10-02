@@ -1,0 +1,104 @@
+Star Hive             0001           Previous Balance:  $1080.00              
+
+-------------------------------------------------------------------------------
+Transaction # P0001      Payment                        $186.00
+Transaction # O0001      Standard Notepads              $475.00
+Transaction # P0002      Payment                        $44.00
+Transaction # O0002      Graphic Notebooks              $300.00
+===============================================================================
+                                          New Balance:  $1615.00              
+
+Roadio                0002           Previous Balance:  $4897.00              
+
+-------------------------------------------------------------------------------
+Transaction # P0003      Payment                        $2600.00
+Transaction # P0004      Payment                        $300.00
+Transaction # O0003      Highlighters                   $380.00
+Transaction # O0004      Blue Markers                   $540.00
+Transaction # P0005      Payment                        $400.00
+===============================================================================
+                                          New Balance:  $2517.00              
+
+Riverleaf Tea         0003           Previous Balance:  $599.00               
+
+-------------------------------------------------------------------------------
+Transaction # P0006      Payment                        $69.00
+Transaction # O0005      Ten-pack Black Pens            $200.00
+Transaction # P0007      Payment                        $10.00
+Transaction # O0006      Staples                        $320.00
+===============================================================================
+                                          New Balance:  $1040.00              
+
+Utopia Group          0004           Previous Balance:  $588.00               
+
+-------------------------------------------------------------------------------
+Transaction # O0007      Sixty-pack Red Pens            $2100.00
+Transaction # P0008      Payment                        $200.00
+Transaction # O0008      Staples                        $200.00
+Transaction # P0009      Payment                        $40.00
+===============================================================================
+                                          New Balance:  $2648.00              
+
+Diamonday             0005           Previous Balance:  $33000.00             
+
+-------------------------------------------------------------------------------
+===============================================================================
+                                          New Balance:  $33000.00             
+
+Coco Glamour          0006           Previous Balance:  $1098.00              
+
+-------------------------------------------------------------------------------
+Transaction # P0010      Payment                        $49.00
+Transaction # O0010      Ten-pack Red Pens              $352.00
+Transaction # P0011      Payment                        $300.00
+Transaction # O0011      Staples                        $320.00
+Transaction # P0012      Payment                        $600.00
+===============================================================================
+                                          New Balance:  $821.00               
+
+Blinkworks            0007           Previous Balance:  $500.00               
+
+-------------------------------------------------------------------------------
+Transaction # P0013      Payment                        $660.00
+===============================================================================
+                                          New Balance:  $-160.00              
+
+Sage & Honey          0008           Previous Balance:  $50.00                
+
+-------------------------------------------------------------------------------
+Transaction # P0014      Payment                        $15.00
+Transaction # O0012      Assorted Markers               $140.00
+Transaction # P0015      Payment                        $10.00
+Transaction # P0016      Payment                        $4.00
+===============================================================================
+                                          New Balance:  $161.00               
+
+LuxHut                0009           Previous Balance:  $630.00               
+
+-------------------------------------------------------------------------------
+Transaction # P0017      Payment                        $30.00
+Transaction # O0014      Highlighters                   $300.00
+Transaction # P0018      Payment                        $70.00
+Transaction # O0015      Binders                        $171.00
+===============================================================================
+                                          New Balance:  $1001.00              
+
+Madzilla Inc          0010           Previous Balance:  $833.00               
+
+-------------------------------------------------------------------------------
+Transaction # O0016      Staples                        $640.00
+Transaction # O0017      Scissors                       $85.00
+Transaction # O0018      Whiteboard                     $120.00
+Transaction # P0019      Payment                        $720.00
+===============================================================================
+                                          New Balance:  $958.00               
+
+Urban Oasis Co        0011           Previous Balance:  $880.00               
+
+-------------------------------------------------------------------------------
+Transaction # O0020      Graphing Notebooks             $510.00
+Transaction # O0021      Binders                        $45.00
+Transaction # O0022      Ten-pack Red Pens              $680.00
+Transaction # P0020      Payment                        $960.00
+===============================================================================
+                                          New Balance:  $1155.00              

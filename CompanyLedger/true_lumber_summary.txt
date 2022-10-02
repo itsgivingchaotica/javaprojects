@@ -1,0 +1,85 @@
+True Lumber Company Ledger 
+_____________________________ 
+Oak wood received for $ 450.00
+
+Cherry Maple wood received for $ 650.00
+
+145 Widgets sold 
+	145 at $ 4.20  	 Sales: $ 609.00
+Total Sale: $ 609.00 
+
+Oak wood received for $ 300.00
+
+75 Widgets sold 
+	75 at $ 7.00  	 Sales: $ 525.00
+Total Sale: $ 525.00 
+
+55 Widgets sold 
+	5 at $ 4.20  	 Sales: $ 21.00
+	50 at $ 8.40  	 Sales: $ 420.00
+Total Sale: $ 441.00 
+Remainder of 125 pieces of Oak wood not available
+
+Cherry Maple wood received for $ 350.00
+
+Cherry Maple wood received for $ 240.00
+
+Oak wood received for $ 360.00
+
+Promotion: 30% off 
+50 Widgets sold
+	50 at $ 7.00  	 Sales: $ 350.00
+Total Sale: $ 245.00 
+
+30 Widgets sold 
+	30 at $ 12.60  	 Sales: $ 378.00
+Total Sale: $ 378.00 
+
+Cherry Maple wood received for $ 500.00
+
+Oak wood received for $ 2915.00
+
+60 Widgets sold 
+	10 at $ 12.60  	 Sales: $ 126.00
+	50 at $ 15.40  	 Sales: $ 770.00
+Total Sale: $ 896.00 
+
+Promotion: 50% off 
+100 Widgets sold
+	100 at $ 15.40  	 Sales: $ 1540.00
+Total Sale: $ 770.00 
+
+70 Widgets sold 
+	5 at $ 7.00  	 Sales: $ 35.00
+	50 at $ 9.80  	 Sales: $ 490.00
+	15 at $ 11.20  	 Sales: $ 168.00
+Total Sale: $ 693.00 
+
+115 Widgets sold 
+	115 at $ 15.40  	 Sales: $ 1771.00
+Total Sale: $ 1771.00 
+Remainder of 60 pieces of Oak wood not available
+
+Cherry Maple wood received for $ 520.00
+
+Oak wood received for $ 1125.00
+
+50 Widgets sold 
+	50 at $ 21.00  	 Sales: $ 1050.00
+Total Sale: $ 1050.00 
+
+Cherry Maple wood received for $ 480.00
+
+Oak wood received for $ 720.00
+
+Remaining Inventory 
+__________________________________
+Oak wood: 
+25 at $ 15.00 each, $ 375.00 total 
+40 at $ 18.00 each, $ 720.00 total 
+
+Cherry Maple wood: 
+15 at $ 8.00 each, $ 120.00 total 
+50 at $ 10.00 each, $ 500.00 total 
+40 at $ 13.00 each, $ 520.00 total 
+30 at $ 16.00 each, $ 480.00 total 
